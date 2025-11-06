@@ -7,16 +7,19 @@
 2.) Which genre makes the most money, and which games help do that? 
 
 3.) Which console (or company) makes the most profit out of videogames, based on the data? How does that help people and/or the economy?
+    Create a variable called console_money, set it equal to count, and start count at 0. Then, add sales together under count if and only if, the console matches the input of the function. Call the function def total_console_money. Do this per console. 
  
  *  https://www.kaggle.com/datasets/divyansh22/online-gaming-anxiety-data/data 
 
  1.) Which percentage of gamers suffer from anxiety, and which percentage of gamers don't? 
+     Return True if GAD > 0. Return False if GAD <= 0. 
 
  2.) At which age is anxiety most common among gamers? 
-
+     
  3.) Based on stats, how can gaming be benefical or detrimental for those playing them? 
 
  
+
 
 
 
